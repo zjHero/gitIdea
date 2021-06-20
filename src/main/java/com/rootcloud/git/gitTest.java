@@ -9,5 +9,6 @@ public class gitTest {
     System.out.println("b1 test first");
     System.out.println("master test");
     System.out.println("push test");
+    System.out.println("pull test");
   }
 }
